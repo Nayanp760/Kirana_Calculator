@@ -18,7 +18,7 @@ while True:
 print(f"price per object is {item_price}")
 
 while True:
-	ValueInput = input("Enter the items in order of price and press q to end : ")
+	ValueInput = input("Enter the items in order of price and press q to generate bill : ")
 	if ValueInput!= 'q':
 		item_name.append(ValueInput)
 	else:
