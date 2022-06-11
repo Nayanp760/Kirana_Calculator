@@ -28,3 +28,4 @@ while True:
 		print(f"Your Bill is : {Bill}")
 		break
 
+print(f"Total bill amount is {sum}")
